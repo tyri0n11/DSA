@@ -1,4 +1,4 @@
-package Reinforcement;
+package JavaPrimer.Creativity;
 
 import javax.swing.*;
 
@@ -20,10 +20,10 @@ public class CreditCard {
         balance = initialBal;
     }
 
+    // Constructor without initial balance (defaults to zero)
     public CreditCard(String cust, String bk, String acnt, int lim) {
-        this(cust, bk, acnt, lim, 0.0); // use a balance of zero as default
+        this(cust, bk, acnt, lim, 0.0); // Calls the constructor with initial balance set to 0
     }
-
     // Accessor methods:
     public String getCustomer() {
         return customer;
@@ -70,35 +70,51 @@ public class CreditCard {
     }
 
     // Utility method to print a card's information
-    public static void printSummary(CreditCard card) {
-        System.out.println("Customer=" + card.customer);
-        System.out.println("Bank=" + card.bank);
-        System.out.println("Account=" + card.account);
-        System.out.println("Balance=" + card.balance); // implicit cast
-        System.out.println("Limit=" + card.limit); // implicit cast
+    public void printSummary() {
+        System.out.println("Customer=" + customer);
+        System.out.println("Bank=" + bank);
+        System.out.println("Account=" + account);
+        System.out.println("Balance=" + balance); // implicit cast
+        System.out.println("Limit=" + limit); // implicit cast
     }
 
+    @Override
+    public String toString() {
+        return "CreditCard{" +
+                "customer='" + customer + '\'' +
+                ", bank='" + bank + '\'' +
+                ", account='" + account + '\'' +
+                ", limit=" + limit +
+                ", balance=" + balance +
+                '}';
+    }
 
     public static void main(String[] args) {
+        // Create an array of CreditCard objects to simulate a wallet
         CreditCard[] wallet = new CreditCard[3];
-        wallet[0] = new CreditCard("John Bowman", "California Savings", "5391037593875309", 5000);
-        wallet[1] = new CreditCard("John Bowman", "California Federal", "3485039933951954", 3500);
-        wallet[2] = new CreditCard("John Bowman", "California Finance", "5391037593875309", 2500, 300);
 
-        //R.1-13 wallet[2] is the one
-        for (int val = 1; val <= 20; val++) {
-            wallet[0].charge(3 * val);
-            wallet[1].charge(2 * val);
-            wallet[2].charge(val);
+        // Initialize each card in the wallet with customer information
+        wallet[0] = new CreditCard("John Bowman", "CaliforniaSavings", "5391037593875309", 5000);
+        wallet[1] = new CreditCard("John Bowman", "CaliforniaFederal", "3485039933951954", 3500);
+        wallet[2] = new CreditCard("John Bowman","CaliforniaFederal", "3485039933951954", 2500, 300);  // Initial balance of 300
+
+        // Simulate charges over 16 months (assuming val represents month)
+        for (int val = 1; val <= 16; val++) {
+            wallet[0].charge(3 * val);  // Charge 3 times the month value on card 1
+            wallet[1].charge(2 * val);  // Charge 2 times the month value on card 2
+            wallet[2].charge(val);       // Charge the month value on card 3
         }
 
-
+        // Print summary of each card in the wallet
         for (CreditCard card : wallet) {
-            CreditCard.printSummary(card); // calling static method
+            System.out.println(card.toString());
+
+            // Make payments until balance is below $200
             while (card.getBalance() > 200.0) {
                 card.makePayment(200);
-                System.out.println("New balance=" + card.getBalance());
+                System.out.println("New balance = " + card.getBalance());
             }
         }
     }
+
 }

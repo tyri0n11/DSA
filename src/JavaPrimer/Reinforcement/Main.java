@@ -1,4 +1,4 @@
-package Reinforcement;
+package JavaPrimer.Reinforcement;
 
 import java.util.Scanner;
 

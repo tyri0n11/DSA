@@ -1,4 +1,4 @@
-package Reinforcement;
+package JavaPrimer.Reinforcement;
 
 public class Flowers {
     private String name;

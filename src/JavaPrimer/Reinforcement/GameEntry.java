@@ -1,4 +1,4 @@
-package Reinforcement;
+package JavaPrimer.Reinforcement;
 
 //R-1.2
 public class GameEntry {
