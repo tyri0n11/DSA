@@ -1,4 +1,4 @@
-package Week3_OOP_test;
+package JavaOOP.Creativity;
 
 public class PredatoryCreditCard extends CreditCard{
 
@@ -14,9 +14,16 @@ public class PredatoryCreditCard extends CreditCard{
     }
 
     // A new method for assessing monthly interest charges
+    // C-2.18 The PredatoryCreditCard class provides a processMonth() method that models
+    // the completion of a monthly cycle. Modify the class so that once a customer has
+    // made ten calls to charge during a month, each additional call to that method in
+    // the current month results in an additional $1 surcharge.
     public void processMonth(int calls) {
         double currentBalance = getBalance(); // Get the current balance using the getter
-
+        // C-2.19 Modify the PredatoryCreditCard class so that a customer is assigned a minimum
+        // monthlypayment, as a percentageof the balance, and so that a late fee is assessed
+        // if the customer does not subsequently pay that minimum amount before the next
+        // monthly cycle.
         if (currentBalance > 0) {
             // Only charge interest on a positive balance
             double monthlyFactor = Math.pow(1 + apr, 1.0 / 12); // Compute monthly rate

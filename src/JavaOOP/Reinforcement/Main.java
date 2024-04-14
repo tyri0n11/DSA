@@ -2,7 +2,7 @@ package JavaOOP.Reinforcement;
 
 class Main {
     // Give three examples of life-critical software applications.
-    public static void main(String[] args){    }
+
     public static void examples(){
         System.out.println(" Medical Devices: Pacemakers, anesthesia machines, and radiation therapy machines all rely on critical software for precise control and patient safety. Malfunctions can have life-threatening consequences.");
         System.out.println("Medical Devices: Pacemakers, anesthesia machines, and radiation therapy machines all rely on critical software for precise control and patient safety. Malfunctions can have life-threatening consequences.");
@@ -86,5 +86,33 @@ class Main {
         for (String disadvantage : disadvantages) {
             System.out.println(disadvantage);
         }
+    }
+    // R-2.13 Consider the inheritance of classes from Exercise R-2.12, and let d be an object
+    // variable of type Horse. If d refers to an actual object of type Equestrian, can it
+    // be cast to the class Racer? Why or why not?
+    public static void printCastingDetails() {
+        String explanation = "For the given classes, Racer and Equestrian are both subclasses of Horse. "
+                + "If d is an object variable of type Horse and refers to an actual object of type Equestrian, "
+                + "it cannot be cast directly to Racer because Equestrian is not a subclass of Racer. "
+                + "They are sibling subclasses under Horse. This is known as a \"horizontal\" cast, "
+                + "which is not allowed because there is no \"is-a\" relationship between Equestrian and Racer; "
+                + "an Equestrian is not a Racer, and vice versa.";
+        System.out.println(explanation);
+    }
+    // R-2.14 Give an example of a Java code fragment that performs an array reference that
+    // is possibly out of bounds, and if it is out of bounds, the program catches that
+    // exception and prints the following error message:
+    // “Don’t try buffer overflow attacks in Java!”
+    public static void performOutOfBound(){
+
+        try{
+            int[] array = {1,2,3,4,5,6};
+            int n = array[6];
+        }catch (Exception e){
+            System.out.println("“Don’t try buffer overflow attacks in Java!”");
+        }
+    }
+    public static void main(String[] args){
+        performOutOfBound();
     }
 }

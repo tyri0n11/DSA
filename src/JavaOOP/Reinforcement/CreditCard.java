@@ -33,8 +33,14 @@ class CreditCard {
         balance += price; // update the balance
         return true; // announce the good news
     }
+    // R-2.15 If the parameter to the makePayment method of the CreditCard class (see Code
+    // Fragment 1.5) were a negative number, that would have the effect of raising
+    // the balance on the account. Revise the implementation so that it throws an
+    // IllegalArgumentException if a negative amount is sent as a parameter.
     public void makePayment(double amount) { // make a payment
-        balance = balance - amount;
+        if (amount < 0) {
+            throw new IllegalArgumentException("Amount must be positive");
+        }else balance -= amount;
     }
 
     public double getBalance() {

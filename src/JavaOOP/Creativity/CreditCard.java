@@ -1,4 +1,8 @@
-package Week3_OOP_test;
+package JavaOOP.Creativity;
+
+
+
+
 
 public class CreditCard {
     // Instance variables:
@@ -40,6 +44,10 @@ public class CreditCard {
     public double getBalance() {
         return balance;
     }
+    // C-2.20 Assume that we change the CreditCard class (see Code Fragment 1.5) so that
+    // instance variable balance has private visibility, but a new protected method is
+    // added, with signature setBalance(newBalance). Show how to properly imple
+    //ment the method PredatoryCreditCard.processMonth() in this setting.
     protected void setBalance(double newBalance){
         balance = newBalance;
     }
