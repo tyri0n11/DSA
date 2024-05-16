@@ -4,39 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update HW DSA Chap 2 - R2.11">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/AbsoluteDifferenceProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/AbstractProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/ArithmeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/FibonacciProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/Packet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/PolynomialDerivative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/SqrtProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/ITCSIU22240_Chau Thinh_OOP assignment.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Projects/CharacterFrequencyChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Projects/document.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleSorting/BubbleSortApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleSorting/InsertSortApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/InfixApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/PostfixApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/PriorityQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/Queue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/StackSample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueue/StackSample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18-Mar-24_8_02_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18-Mar-24_8_02_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update all exercises before Midterm">
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/Quizz_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BstChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midterm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midterm/DoublyLinkedApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midterm/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midterm/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BinaryTreeDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/KnapsackSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RaisingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/TeamCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9_AdvancedSorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOOP/Reinforcement/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOOP/Reinforcement/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOOP/Reinforcement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOOP/Reinforcement/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3_OOP_test/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3_OOP_test/PredatoryCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOOP/Creativity/PredatoryCreditCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +58,30 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.ArithmeticProgression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTreeDrawer.executor&quot;: &quot;Run&quot;,
     &quot;Application.BracketsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharacterFrequencyChart.executor&quot;: &quot;Run&quot;,
     &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
     &quot;Application.Creativity.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.CreditCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLinkList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
     &quot;Application.InfixApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSortLinkedList.executor&quot;: &quot;Run&quot;,
     &quot;Application.Internet.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaOOP.Creativity.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaOOP.Reinforcement.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnapsackSolver.executor&quot;: &quot;Run&quot;,
     &quot;Application.LetterFrequencyChart.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList2App.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedListApp.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maryland.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.PolynomialDerivative.executor&quot;: &quot;Run&quot;,
     &quot;Application.PostfixApp.executor&quot;: &quot;Run&quot;,
     &quot;Application.PredatoryCreditCard.executor&quot;: &quot;Run&quot;,
@@ -94,14 +89,18 @@
     &quot;Application.Project.executor&quot;: &quot;Run&quot;,
     &quot;Application.Queue2Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.QueueApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quizz_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaisingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeamCombination.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/javafx-sdk-22/lib/javafx.web.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -119,6 +118,8 @@
       <recent name="JavaOOP.Reinforcement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\Midterm" />
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\LinkedList" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\JavaOOP\Reinforcement" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\materials" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA_JPrimer\materials" />
@@ -132,39 +133,13 @@
       <recent name="Creativity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="InfixApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackQueue.InfixApp" />
+  <component name="RunManager" selected="Application.GFG">
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.GFG" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedList2App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList2App" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListApp" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="AdvancedSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,18 +148,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="practicing.Main" />
       <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostfixApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackQueue.PostfixApp" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week9_AdvancedSorting.MergeSort" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackQueue.*" />
+          <option name="PATTERN" value="Week9_AdvancedSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quizz_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.Quizz_1" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.TeamCombination" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Quizz_1" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LinkedList2App" />
-        <item itemvalue="Application.LinkedListApp" />
-        <item itemvalue="Application.PostfixApp" />
-        <item itemvalue="Application.InfixApp" />
+        <item itemvalue="Application.TeamCombination" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +279,25 @@
       <workItem from="1712922739263" duration="84000" />
       <workItem from="1712925374009" duration="633000" />
       <workItem from="1712981664721" duration="1819000" />
+      <workItem from="1713071168820" duration="66000" />
+      <workItem from="1713259120196" duration="567000" />
+      <workItem from="1713259845046" duration="2892000" />
+      <workItem from="1713262766855" duration="7209000" />
+      <workItem from="1713414246785" duration="15000" />
+      <workItem from="1713414274693" duration="2000" />
+      <workItem from="1713675568445" duration="83000" />
+      <workItem from="1715004218604" duration="2898000" />
+      <workItem from="1715311192537" duration="2994000" />
+      <workItem from="1715407777486" duration="1173000" />
+      <workItem from="1715409143493" duration="640000" />
+      <workItem from="1715433171287" duration="2107000" />
+      <workItem from="1715439456391" duration="5000" />
+      <workItem from="1715601365416" duration="1061000" />
+      <workItem from="1715652079428" duration="23000" />
+      <workItem from="1715759345981" duration="1065000" />
+      <workItem from="1715822481401" duration="3483000" />
+      <workItem from="1715826557487" duration="607000" />
+      <workItem from="1715835338083" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="update HW DSA">
       <option name="closed" value="true" />
@@ -313,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711206291583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update all exercises before Midterm">
+      <option name="closed" value="true" />
+      <created>1713071207133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713071207133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +367,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update HW DSA" />
     <MESSAGE value="update HW DSA Chap 2 - R2.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="update HW DSA Chap 2 - R2.11" />
+    <MESSAGE value="update all exercises before Midterm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update all exercises before Midterm" />
   </component>
 </project>
