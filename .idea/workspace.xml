@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update all exercises before Midterm">
-      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/Quizz_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BstChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midterm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midterm/DoublyLinkedApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midterm/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midterm/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/BinaryTreeDrawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/KnapsackSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RaisingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/TeamCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9_AdvancedSorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practicing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update new week(quizzes, lectures, practices)">
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/Radix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/PartitionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/QuickSort2App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/RadixSortApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework/TreeSizeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/ShellSortApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,76 +49,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticProgression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTreeDrawer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BracketsApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterFrequencyChart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Creativity.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreditCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoublyLinkList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfixApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSortLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Internet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaOOP.Creativity.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaOOP.Reinforcement.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KnapsackSolver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LetterFrequencyChart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList2App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maryland.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolynomialDerivative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PostfixApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PredatoryCreditCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Project.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queue2Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quizz_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RaisingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeamCombination.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvancedSorting.homework.BinaryTree.executor": "Run",
+    "Application.AdvancedSorting.homework.TreeSizeCalculator.executor": "Run",
+    "Application.ArithmeticProgression.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.BinaryTreeDrawer.executor": "Run",
+    "Application.BracketsApp.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CharacterFrequencyChart.executor": "Run",
+    "Application.CoffeeShop.executor": "Run",
+    "Application.Creativity.Main.executor": "Run",
+    "Application.CreditCard.executor": "Run",
+    "Application.DoublyLinkList.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.InfixApp.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.InsertionSortLinkedList.executor": "Run",
+    "Application.Internet.executor": "Run",
+    "Application.JavaOOP.Creativity.Main.executor": "Run",
+    "Application.JavaOOP.Reinforcement.Main.executor": "Run",
+    "Application.KnapsackSolver.executor": "Run",
+    "Application.LetterFrequencyChart.executor": "Run",
+    "Application.LinkedList2App.executor": "Run",
+    "Application.LinkedListApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maryland.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSortApp.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.PartitionApp.executor": "Run",
+    "Application.PolynomialDerivative.executor": "Run",
+    "Application.PostfixApp.executor": "Run",
+    "Application.PredatoryCreditCard.executor": "Run",
+    "Application.PriorityQApp.executor": "Run",
+    "Application.Project.executor": "Run",
+    "Application.Queue2Test.executor": "Run",
+    "Application.QueueApp.executor": "Run",
+    "Application.QuickSort2App.executor": "Run",
+    "Application.Quizz_1.executor": "Run",
+    "Application.Radix.executor": "Run",
+    "Application.RadixSortApp.executor": "Run",
+    "Application.RaisingNumber.executor": "Run",
+    "Application.ReverseApp.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.ShellSortApp.executor": "Run",
+    "Application.StackApp.executor": "Run",
+    "Application.TeamCombination.executor": "Run",
+    "Application.Tree.executor": "Run",
+    "Application.TreeSizeCalculator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA/src/AdvancedSorting/homework2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaOOP.Reinforcement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework2" />
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\Midterm" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\LinkedList" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\JavaOOP\Reinforcement" />
-      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\materials" />
-      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA_JPrimer\materials" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework2" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\SimpleSorting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -133,9 +139,48 @@
       <recent name="Creativity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GFG">
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.GFG" />
+  <component name="RunManager" selected="Application.ShellSortApp">
+    <configuration name="AdvancedSorting.homework.BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework.BinaryTree" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedSorting.homework.TreeNode" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedSorting.homework.TreeSizeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework.TreeSizeCalculator" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedSorting.homework.TreeNode" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.MergeSortApp" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Radix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.Radix" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
@@ -147,51 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicing.Main" />
+    <configuration name="ShellSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.ShellSortApp" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practicing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week9_AdvancedSorting.MergeSort" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week9_AdvancedSorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quizz_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.Quizz_1" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedSorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeamCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.TeamCombination" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.Quizz_1" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TeamCombination" />
+        <item itemvalue="Application.ShellSortApp" />
+        <item itemvalue="Application.MergeSortApp" />
+        <item itemvalue="Application.Radix" />
+        <item itemvalue="Application.AdvancedSorting.homework.BinaryTree" />
+        <item itemvalue="Application.AdvancedSorting.homework.TreeSizeCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +304,13 @@
       <workItem from="1715822481401" duration="3483000" />
       <workItem from="1715826557487" duration="607000" />
       <workItem from="1715835338083" duration="10000" />
+      <workItem from="1715846942672" duration="2577000" />
+      <workItem from="1716364583633" duration="3419000" />
+      <workItem from="1716382635099" duration="125000" />
+      <workItem from="1716469746458" duration="710000" />
+      <workItem from="1716880930472" duration="536000" />
+      <workItem from="1716881590266" duration="1040000" />
+      <workItem from="1716884744803" duration="1777000" />
     </task>
     <task id="LOCAL-00001" summary="update HW DSA">
       <option name="closed" value="true" />
@@ -347,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713071207133</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update new week(quizzes, lectures, practices)">
+      <option name="closed" value="true" />
+      <created>1715846978417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715846978417</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +389,26 @@
     <MESSAGE value="update HW DSA" />
     <MESSAGE value="update HW DSA Chap 2 - R2.11" />
     <MESSAGE value="update all exercises before Midterm" />
-    <option name="LAST_COMMIT_MESSAGE" value="update all exercises before Midterm" />
+    <MESSAGE value="update new week(quizzes, lectures, practices)" />
+    <option name="LAST_COMMIT_MESSAGE" value="update new week(quizzes, lectures, practices)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedSorting/homework/Tree.java</url>
+          <line>62</line>
+          <properties class="BinaryTree" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
