@@ -10,7 +10,8 @@ class Link{
         next = null;
     }
     public void displayLink(){
-        System.out.print(STR."{\{iData}, \{dData}} ");    }
+        System.out.print(STR.
+                "{\{iData}, \{dData}} ");    }
 }
 class LinkList{
     private Link first;

@@ -86,6 +86,14 @@ class DArray {
       }
       System.out.println();
    } // end merge()
+
+   public long getSize() {
+      return nElems;
+   }
+
+   public long[] getArray() {
+      return theArray;
+   }
    //-----------------------------------------------------------
 } // end class DArray
 
@@ -113,6 +121,15 @@ class MergeSortApp {
 
       double durationInSeconds = (endTime - startTime) / 1_000_000_000.0;
       System.out.printf("Time taken to sort: %.6f seconds%n", durationInSeconds);
+
+      FileWriter fileWriter = new FileWriter("src/AdvancedSorting/homework2/inverse.txt");
+      BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+      for(long i = 0; i < array.getSize(); i++) {
+         bufferedWriter.write(String.valueOf(array.getArray()[Math.toIntExact(i)]));
+         bufferedWriter.newLine();
+      }
+      bufferedWriter.close();
+
 
 
    } // end main()
