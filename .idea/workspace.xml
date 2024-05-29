@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update new week(quizzes, lectures, practices)">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_sdk_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortM3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOOP/Projects/CharacterFrequencyChart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="do some shit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715846978417</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="do some shit">
+      <option name="closed" value="true" />
+      <created>1716992317506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716992317506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +389,8 @@
     <MESSAGE value="update HW DSA Chap 2 - R2.11" />
     <MESSAGE value="update all exercises before Midterm" />
     <MESSAGE value="update new week(quizzes, lectures, practices)" />
-    <option name="LAST_COMMIT_MESSAGE" value="update new week(quizzes, lectures, practices)" />
+    <MESSAGE value="do some shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="do some shit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
