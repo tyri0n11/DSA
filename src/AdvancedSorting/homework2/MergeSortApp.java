@@ -87,6 +87,48 @@ class DArray {
       System.out.println();
    } // end merge()
 
+   //descending merge
+   public void mergeSortDescending() {
+      long[] workSpace = new long[nElems];
+      recMergeSortDescending(workSpace, 0, nElems - 1);
+   }
+
+   private void recMergeSortDescending(long[] workSpace, int lowerBound, int upperBound) {
+      if (lowerBound < upperBound) {
+         int mid = (lowerBound + upperBound) / 2;
+         recMergeSortDescending(workSpace, lowerBound, mid);
+         recMergeSortDescending(workSpace, mid + 1, upperBound);
+         mergeDescending(workSpace, lowerBound, mid + 1, upperBound);
+      }
+   }
+
+   private void mergeDescending(long[] workSpace, int lowPtr, int highPtr, int upperBound) {
+      int j = 0; // workspace index
+      int lowerBound = lowPtr;
+      int mid = highPtr - 1;
+      int n = upperBound - lowerBound + 1; // # of items
+
+      while (lowPtr <= mid && highPtr <= upperBound) {
+         if (theArray[lowPtr] > theArray[highPtr]) // Modified comparison for descending order
+            workSpace[j++] = theArray[lowPtr++];
+         else
+            workSpace[j++] = theArray[highPtr++];
+      }
+
+      while (lowPtr <= mid)
+         workSpace[j++] = theArray[lowPtr++];
+
+      while (highPtr <= upperBound)
+         workSpace[j++] = theArray[highPtr++];
+
+      for (j = 0; j < n; j++) {
+         theArray[lowerBound + j] = workSpace[j];
+         System.out.print(workSpace[j] + " ");
+      }
+      System.out.println();
+   }
+
+
    public long getSize() {
       return nElems;
    }
@@ -122,13 +164,6 @@ class MergeSortApp {
       double durationInSeconds = (endTime - startTime) / 1_000_000_000.0;
       System.out.printf("Time taken to sort: %.6f seconds%n", durationInSeconds);
 
-      FileWriter fileWriter = new FileWriter("src/AdvancedSorting/homework2/inverse.txt");
-      BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-      for(long i = 0; i < array.getSize(); i++) {
-         bufferedWriter.write(String.valueOf(array.getArray()[Math.toIntExact(i)]));
-         bufferedWriter.newLine();
-      }
-      bufferedWriter.close();
 
 
 

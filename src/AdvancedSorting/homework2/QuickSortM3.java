@@ -127,7 +127,7 @@ public class QuickSortM3 {
         int size = Integer.parseInt(JOptionPane.showInputDialog(null, "Enter size:"));
         ArrayQ2 arr = new ArrayQ2(size);
 
-        FileReader fr = new FileReader("src/AdvancedSorting/homework2/data.txt");
+        FileReader fr = new FileReader("src/AdvancedSorting/homework2/already-sorted.txt");
         BufferedReader reader = new BufferedReader(fr);
         String line;
         int count = 0;
@@ -140,7 +140,7 @@ public class QuickSortM3 {
 
 
         long startTime = System.nanoTime();
-        arr.quickSortM3Descending(); // quick sort the array in descending order
+        arr.quickSortM3(); // quick sort the array in descending order
         long endTime = System.nanoTime();
         double durationInSeconds = (endTime - startTime) / 1_000_000_000.0;
 

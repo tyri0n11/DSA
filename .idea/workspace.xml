@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="do some shit" />
+    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update 29/5">
+      <change afterPath="$PROJECT_DIR$/src/Graphs/AdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BacVaoRa_Inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BacVaoRa_Out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachCanh_Inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachCanh_Out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachKe_Inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachKe_Out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/EdgeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/GraphDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/ITCSIU22240_Chau Thinh_DSA_Graphs_Practice.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/AdjacencyToEdgeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/Canh2DSKe_inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/Canh2DSKe_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/DSKe2Canh_inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/DSKe2Canh_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/EdgeListToAdjacency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/randomthings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_5_2024_7_06_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_5_2024_7_06_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortM3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortM3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/ShellSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/ShellSortApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/inverse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/inverse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/lab_07_HW.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/~$b_07_HW.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +53,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,106 +69,109 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdvancedSorting.homework.BinaryTree.executor": "Run",
-    "Application.AdvancedSorting.homework.TreeSizeCalculator.executor": "Run",
-    "Application.ArithmeticProgression.executor": "Run",
-    "Application.BinaryTree.executor": "Run",
-    "Application.BinaryTreeDrawer.executor": "Run",
-    "Application.BracketsApp.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.CharacterFrequencyChart.executor": "Run",
-    "Application.CoffeeShop.executor": "Run",
-    "Application.Creativity.Main.executor": "Run",
-    "Application.CreditCard.executor": "Run",
-    "Application.DoublyLinkList.executor": "Run",
-    "Application.GFG.executor": "Run",
-    "Application.Graph.executor": "Run",
-    "Application.InfixApp.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.InsertionSortLinkedList.executor": "Run",
-    "Application.Internet.executor": "Run",
-    "Application.JavaOOP.Creativity.Main.executor": "Run",
-    "Application.JavaOOP.Reinforcement.Main.executor": "Run",
-    "Application.KnapsackSolver.executor": "Run",
-    "Application.LetterFrequencyChart.executor": "Run",
-    "Application.LinkedList2App.executor": "Run",
-    "Application.LinkedListApp.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Maryland.executor": "Run",
-    "Application.MergeSort.executor": "Run",
-    "Application.MergeSortApp.executor": "Run",
-    "Application.Multiplication.executor": "Run",
-    "Application.PartitionApp.executor": "Run",
-    "Application.PolynomialDerivative.executor": "Run",
-    "Application.PostfixApp.executor": "Run",
-    "Application.PredatoryCreditCard.executor": "Run",
-    "Application.PriorityQApp.executor": "Run",
-    "Application.Project.executor": "Run",
-    "Application.Queue2Test.executor": "Run",
-    "Application.QueueApp.executor": "Run",
-    "Application.QuickSort2App.executor": "Run",
-    "Application.QuickSortM3.executor": "Run",
-    "Application.QuickSortt.executor": "Run",
-    "Application.Quizz_1.executor": "Run",
-    "Application.Radix.executor": "Run",
-    "Application.RadixSortApp.executor": "Run",
-    "Application.RaisingNumber.executor": "Run",
-    "Application.ReverseApp.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.ShellSortApp.executor": "Run",
-    "Application.StackApp.executor": "Run",
-    "Application.TeamCombination.executor": "Run",
-    "Application.Tree.executor": "Run",
-    "Application.TreeSizeCalculator.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA/src/AdvancedSorting/homework2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdjacencyList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdjacencyToEdgeList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdvancedSorting.homework.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdvancedSorting.homework.TreeSizeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticProgression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTreeDrawer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BracketsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterFrequencyChart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Creativity.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreditCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLinkList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EdgeList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphDegrees.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfixApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSortLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Internet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaOOP.Creativity.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaOOP.Reinforcement.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnapsackSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LetterFrequencyChart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList2App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maryland.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PartitionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolynomialDerivative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PostfixApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredatoryCreditCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Project.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue2Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort2App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSortt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quizz_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Radix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadixSortApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaisingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShellSortApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeamCombination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSizeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA/src/Graphs/Quizz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaOOP.Reinforcement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\Graphs\Quizz" />
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\Graphs" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework2" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\Midterm" />
-      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\LinkedList" />
-      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\JavaOOP\Reinforcement" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework2" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\SimpleSorting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="AdvancedSorting.homework2" />
       <recent name="JavaOOP.Creativity" />
       <recent name="Project" />
       <recent name="Creativity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSortM3">
-    <configuration name="MergeSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.MergeSortApp" />
+  <component name="RunManager" selected="Application.AdjacencyToEdgeList">
+    <configuration name="AdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.AdjacencyList" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortM3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.QuickSortM3" />
+    <configuration name="AdjacencyToEdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Quizz.AdjacencyToEdgeList" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
+          <option name="PATTERN" value="Graphs.Quizz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.QuickSortt" />
+    <configuration name="EdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.EdgeList" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Radix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.Radix" />
+    <configuration name="GraphDegrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.GraphDegrees" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedSorting.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedSorting.homework2.ShellSortApp" />
+    <configuration name="MagicGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.Quizz.MagicGraph" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedSorting.homework2.*" />
+          <option name="PATTERN" value="Graphs.Quizz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSortM3" />
-        <item itemvalue="Application.QuickSortt" />
-        <item itemvalue="Application.ShellSortApp" />
-        <item itemvalue="Application.MergeSortApp" />
-        <item itemvalue="Application.Radix" />
+        <item itemvalue="Application.AdjacencyToEdgeList" />
+        <item itemvalue="Application.MagicGraph" />
+        <item itemvalue="Application.EdgeList" />
+        <item itemvalue="Application.AdjacencyList" />
+        <item itemvalue="Application.GraphDegrees" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +337,19 @@
       <workItem from="1716880930472" duration="536000" />
       <workItem from="1716881590266" duration="1040000" />
       <workItem from="1716884744803" duration="1777000" />
+      <workItem from="1716896680244" duration="617000" />
+      <workItem from="1716898673963" duration="42000" />
+      <workItem from="1716999262771" duration="422000" />
+      <workItem from="1717032088196" duration="2187000" />
+      <workItem from="1717150874395" duration="672000" />
+      <workItem from="1717899160005" duration="6867000" />
+      <workItem from="1717919888169" duration="832000" />
+      <workItem from="1717987481037" duration="1452000" />
+      <workItem from="1718028086256" duration="3000" />
+      <workItem from="1718245057052" duration="1912000" />
+      <workItem from="1718246989696" duration="1030000" />
+      <workItem from="1718253775023" duration="14000" />
+      <workItem from="1718457609090" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="update HW DSA">
       <option name="closed" value="true" />
@@ -359,13 +407,13 @@
       <option name="project" value="LOCAL" />
       <updated>1715846978417</updated>
     </task>
-    <task id="LOCAL-00008" summary="do some shit">
+    <task id="LOCAL-00008" summary="update 28/5">
       <option name="closed" value="true" />
-      <created>1716992317506</created>
+      <created>1716896700141</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1716992317506</updated>
+      <updated>1716896700141</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
@@ -389,8 +437,8 @@
     <MESSAGE value="update HW DSA Chap 2 - R2.11" />
     <MESSAGE value="update all exercises before Midterm" />
     <MESSAGE value="update new week(quizzes, lectures, practices)" />
-    <MESSAGE value="do some shit" />
-    <option name="LAST_COMMIT_MESSAGE" value="do some shit" />
+    <MESSAGE value="update 28/5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 28/5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

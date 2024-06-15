@@ -115,7 +115,7 @@ public class QuickSortt {
     public static void main(String[] args) throws IOException {
         int size = Integer.parseInt(JOptionPane.showInputDialog(null, "Enter size:"));
         ArrayQ arr = new ArrayQ(size);
-        FileReader fr = new FileReader("src/AdvancedSorting/homework2/data.txt");
+        FileReader fr = new FileReader("src/AdvancedSorting/homework2/already-sorted.txt");
         BufferedReader reader = new BufferedReader(fr);
         String line;
         int count = 0;
