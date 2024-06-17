@@ -4,39 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update 29/5">
-      <change afterPath="$PROJECT_DIR$/src/Graphs/AdjacencyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/BacVaoRa_Inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/BacVaoRa_Out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachCanh_Inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachCanh_Out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachKe_Inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DanhSachKe_Out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/EdgeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/GraphDegrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/ITCSIU22240_Chau Thinh_DSA_Graphs_Practice.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/AdjacencyToEdgeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/Canh2DSKe_inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/Canh2DSKe_out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/DSKe2Canh_inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/DSKe2Canh_out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Quizz/EdgeListToAdjacency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/randomthings.java" afterDir="false" />
+    <list default="true" id="2ec9fa10-f6fe-4ec0-91a9-dcfe378fcfd8" name="Changes" comment="update 15/6 - graphs">
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/BFS_Inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/BFS_Out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/FindPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/FindPath_in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS/FindPath_out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_5_2024_7_06_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_5_2024_7_06_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/MergeSortApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortM3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortM3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/QuickSortt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/ShellSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/ShellSortApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/inverse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedSorting/homework2/inverse.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/lab_07_HW.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedSorting/homework2/~$b_07_HW.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_ITCSIU22240.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphs/Quizz/AdjacencyToEdgeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Quizz/AdjacencyToEdgeList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +32,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tyri0n11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tyri0n11/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;3b4e63b0-bfac-4c7e-b9c0-959d55cc3dec&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,81 +59,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdjacencyList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdjacencyToEdgeList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvancedSorting.homework.BinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvancedSorting.homework.TreeSizeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticProgression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTreeDrawer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BracketsApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterFrequencyChart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Creativity.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreditCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoublyLinkList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EdgeList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphDegrees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfixApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSortLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Internet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaOOP.Creativity.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaOOP.Reinforcement.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KnapsackSolver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LetterFrequencyChart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList2App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MagicGraph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maryland.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSortApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PartitionApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PolynomialDerivative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PostfixApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PredatoryCreditCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Project.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queue2Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort2App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSortt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quizz_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Radix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RadixSortApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RaisingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShellSortApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeamCombination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeSizeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA/src/Graphs/Quizz&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdjacencyList.executor": "Run",
+    "Application.AdjacencyToEdgeList.executor": "Run",
+    "Application.AdvancedSorting.homework.BinaryTree.executor": "Run",
+    "Application.AdvancedSorting.homework.TreeSizeCalculator.executor": "Run",
+    "Application.ArithmeticProgression.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.BinaryTreeDrawer.executor": "Run",
+    "Application.BracketsApp.executor": "Run",
+    "Application.BreadthFirstSearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CharacterFrequencyChart.executor": "Run",
+    "Application.CoffeeShop.executor": "Run",
+    "Application.Creativity.Main.executor": "Run",
+    "Application.CreditCard.executor": "Run",
+    "Application.DoublyLinkList.executor": "Run",
+    "Application.EdgeList.executor": "Run",
+    "Application.FindPath.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.GraphDegrees.executor": "Run",
+    "Application.Graphs.BFS.BreadthFirstSearch.executor": "Run",
+    "Application.InfixApp.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.InsertionSortLinkedList.executor": "Run",
+    "Application.Internet.executor": "Run",
+    "Application.JavaOOP.Creativity.Main.executor": "Run",
+    "Application.JavaOOP.Reinforcement.Main.executor": "Run",
+    "Application.KnapsackSolver.executor": "Run",
+    "Application.LetterFrequencyChart.executor": "Run",
+    "Application.LinkedList2App.executor": "Run",
+    "Application.LinkedListApp.executor": "Run",
+    "Application.MagicGraph.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maryland.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSortApp.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.PartitionApp.executor": "Run",
+    "Application.PolynomialDerivative.executor": "Run",
+    "Application.PostfixApp.executor": "Run",
+    "Application.PredatoryCreditCard.executor": "Run",
+    "Application.PriorityQApp.executor": "Run",
+    "Application.Project.executor": "Run",
+    "Application.Queue2Test.executor": "Run",
+    "Application.QueueApp.executor": "Run",
+    "Application.QuickSort2App.executor": "Run",
+    "Application.QuickSortt.executor": "Run",
+    "Application.Quizz_1.executor": "Run",
+    "Application.Radix.executor": "Run",
+    "Application.RadixSortApp.executor": "Run",
+    "Application.RaisingNumber.executor": "Run",
+    "Application.ReverseApp.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.ShellSortApp.executor": "Run",
+    "Application.StackApp.executor": "Run",
+    "Application.TeamCombination.executor": "Run",
+    "Application.Tree.executor": "Run",
+    "Application.TreeSizeCalculator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/Respositories/DSA/src/Graphs/Quizz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaOOP.Reinforcement" />
@@ -156,6 +149,8 @@
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\Midterm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\Graphs\BFS" />
+      <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\Graphs" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Respositories\DSA\src\AdvancedSorting\homework2" />
       <recent name="C:\Users\USER\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Repositories\DSA\src\SimpleSorting" />
     </key>
@@ -165,20 +160,7 @@
       <recent name="Creativity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdjacencyToEdgeList">
-    <configuration name="AdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.AdjacencyList" />
-      <module name="DSA_ITCSIU22240" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graphs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindPath">
     <configuration name="AdjacencyToEdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graphs.Quizz.AdjacencyToEdgeList" />
       <module name="DSA_ITCSIU22240" />
@@ -192,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.EdgeList" />
+    <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.BreadthFirstSearch" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
@@ -205,12 +187,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDegrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.GraphDegrees" />
+    <configuration name="FindPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.BFS.FindPath" />
       <module name="DSA_ITCSIU22240" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graphs.*" />
+          <option name="PATTERN" value="Graphs.BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graphs.BFS.BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.BFS.BreadthFirstSearch" />
+      <module name="DSA_ITCSIU22240" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graphs.BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,18 +228,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPath" />
+        <item itemvalue="Application.Graphs.BFS.BreadthFirstSearch" />
+        <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="Application.AdjacencyToEdgeList" />
         <item itemvalue="Application.MagicGraph" />
-        <item itemvalue="Application.EdgeList" />
-        <item itemvalue="Application.AdjacencyList" />
-        <item itemvalue="Application.GraphDegrees" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
       </set>
     </attachedChunks>
   </component>
@@ -350,6 +346,11 @@
       <workItem from="1718246989696" duration="1030000" />
       <workItem from="1718253775023" duration="14000" />
       <workItem from="1718457609090" duration="13000" />
+      <workItem from="1718457638319" duration="5189000" />
+      <workItem from="1718519299474" duration="806000" />
+      <workItem from="1718520220379" duration="3483000" />
+      <workItem from="1718526218343" duration="920000" />
+      <workItem from="1718543565459" duration="4159000" />
     </task>
     <task id="LOCAL-00001" summary="update HW DSA">
       <option name="closed" value="true" />
@@ -415,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716896700141</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update 15/6 - graphs">
+      <option name="closed" value="true" />
+      <created>1718462239256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718462239256</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +447,8 @@
     <MESSAGE value="update all exercises before Midterm" />
     <MESSAGE value="update new week(quizzes, lectures, practices)" />
     <MESSAGE value="update 28/5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 28/5" />
+    <MESSAGE value="update 15/6 - graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 15/6 - graphs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

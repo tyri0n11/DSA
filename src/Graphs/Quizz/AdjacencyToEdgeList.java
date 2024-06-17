@@ -37,11 +37,7 @@ public class AdjacencyToEdgeList {
             }
         }
 
-        PrintWriter writer = new PrintWriter(new File(out));
-        writer.println(vertices + " " + edgeList.size());
-        for (int[] edge : edgeList) {
-            writer.println(edge[0] + " " + edge[1]);
-        }
-        writer.close();
+
+
     }
 }
